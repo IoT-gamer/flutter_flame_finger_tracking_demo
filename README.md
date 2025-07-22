@@ -75,7 +75,7 @@ lib/
 ### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/flutter_flame_finger_tracking_demo.git](https://https://github.com/IoT-gamer/flutter_flame_finger_tracking_demo.git)
+    git clone https://github.com/IoT-gamer/flutter_flame_finger_tracking_demo.git
     cd flutter_flame_finger_tracking_demo
     ```
 
